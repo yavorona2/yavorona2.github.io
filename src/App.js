@@ -32,7 +32,8 @@ class App extends React.Component {
                 <div className="image">
                   <img
                   className="gatech-icon"
-                  src="https://login.gatech.edu/cas/images/logo-gt-cropped.png" alt="Georgia Tech">
+                  src="https://login.gatech.edu/cas/images/logo-gt-cropped.png"
+                  alt="Gorgia Tech">
                   </img>
                 </div>
                 <div className="site-title">
@@ -139,7 +140,7 @@ class App extends React.Component {
                © 2021 Georgia Institute of Technology
             </div>
             <div className="link-footer">
-            <ul clasName="info">
+            <ul className="info">
               <li>
                 <a className="footer-link" href="https://www.gatech.edu/emergency/">Emergency Information</a>
               </li>

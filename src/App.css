@@ -30,7 +30,7 @@ body {
 
 .site-title {
   color: #eeb211;
-  position: right;
+  text-align: right;
   margin-top: 20;
   margin-bottom: 12;
   margin-left: auto; 
